@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env/
+.conda/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Data (nie commituj surowych/pl przetworzonych)
+data/raw/
+data/processed/
+
+# Credentials / tokens
+*.pem
+*.key
+*.crt
+*.p12
+*.json
+*.env
+src/credentials_*
+
+# Logs / Cache
+logs/
+*.log
+.cache/
+*.cache/

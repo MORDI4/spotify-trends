@@ -1,0 +1,19 @@
+# Core
+pandas
+numpy
+
+# Viz
+matplotlib
+seaborn
+plotly
+
+# ML
+scikit-learn
+
+# Spotify API
+spotipy
+python-dotenv
+
+# Jupyter
+jupyter
+ipykernel
